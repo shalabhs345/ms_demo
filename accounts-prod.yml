@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
-    name: "Tisha Shalabh Sharma - Prod Owner"
+    name: "Tisha Sharma - Owner"
     email: "{cipher}3769173a8e59bcd9d0ecd2076ac07e5d8d98e5fd64acb8f868f50c2641f39324e1cf801246b7489441b8b017eb023eab"
   onCallSupport:
     - (555) 555-1234
