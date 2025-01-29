@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to EazyBank Loans related Prod APIs"
   contactDetails:
-    name: "Tisha Aryansh Sharma - Prod Owner"
+    name: "Tisha Sharma - Prod Owner"
     email: "tisha@eazybytes.com"
   onCallSupport:
     - (555) 555-1234
