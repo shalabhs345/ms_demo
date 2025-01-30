@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related Prod APIs"
   contactDetails:
-    name: "Tisha Shalabh Sharma - Prod Owner"
+    name: "Tisha Shalabh Sharma - Owner"
     email: "tisha@eazybytes.com"
   onCallSupport:
     - (555) 555-1234
